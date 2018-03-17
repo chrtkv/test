@@ -1,3 +1,11 @@
-p {
-    color: blueviolet;
+h1#title {
+    font-family: 'Courier New', Courier, monospace
+}
+
+p.goose {
+    color: red;
+}
+
+a {
+    font-style: italic;
 }
